@@ -33,4 +33,4 @@ For English version, press [here](https://github.com/Prosthetic-Fingertips-Sensi
 
 - E-mail
 
-    [开发者团队邮箱](mailto:yuanlinstudio@gmail.com)
+    [yuanlinstudio@gmail.com](mailto:yuanlinstudio@gmail.com)
