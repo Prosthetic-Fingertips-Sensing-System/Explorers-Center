@@ -12,20 +12,20 @@ For English version, press [here](https://github.com/Prosthetic-Fingertips-Sensi
 
 *开发中*
 
-### 隐私协议
+## 隐私政策
 
-[查看用户隐私协议](LICENSE)
+我们非常重视您的隐私。您可以在 [这里](Privacy%20Policy.md) 查看我们的隐私政策。如有任何疑问，请[联系我们](README.md#联系我们)。
 
-### 许可和知识产权
+## 许可和知识产权
 
 [用户许可](LICENSE)
 
-### 用户反馈
+## 用户反馈
 
 - 在本页上方的 [Issues](https://github.com/Prosthetic-Fingertips-Sensing-System/Explorers-Center/issues) 链接，点击 `New issue` 按钮，填入您的反馈内容，最后选择 `Submit new issue` 即可。
 - *适用于在 TestFlight 中参与 iOS App 内部测试的用户*：启动 TestFlight App，选择 `指尖传感`，轻触 `发送 Beta 版反馈`，即可与我们取得联系。您可以同时上传您的 App 截图和崩溃信息。
 
-### 联系我们
+## 联系我们
 
 - 开发者团队 @ GitHub
 
