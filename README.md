@@ -12,9 +12,21 @@ For English version, press [here](https://github.com/Prosthetic-Fingertips-Sensi
 
 *开发中*
 
+## 第三方依赖和开源工程
+
+指尖传感 App 使用的第三方依赖有
+
+依赖 | 开源协议 | 技术支持网站
+---- | ---- | ----
+BlueSocket | Apache-2.0 | <https://github.com/IBM-Swift/BlueSocket>
+IQKeyboardManager | MIT | <https://github.com/hackiftekhar/IQKeyboardManager>
+SwiftScan | MIT | <https://github.com/MxABC/swiftScan>
+Charts | Apache-2.0 | <https://github.com/danielgindi/Charts>
+TinyConstraints | MIT | <https://github.com/roberthein/TinyConstraints>
+
 ## 隐私政策
 
-我们非常重视您的隐私。您可以在 [这里](Privacy%20Policy.md) 查看我们的隐私政策。如有任何疑问，请[联系我们](README.md#联系我们)。
+我们非常重视您的隐私。您可以在 [这里](Privacy%20Policy.md) 查看我们的隐私政策。如有任何疑问，请 [联系我们](README.md#联系我们)。
 
 ## 许可和知识产权
 
