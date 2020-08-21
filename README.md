@@ -40,15 +40,21 @@ TinyConstraints | MIT | <https://github.com/roberthein/TinyConstraints>
 
 ## 许可和知识产权
 
-[用户许可](LICENSE)
+适用于开源工程：[开源工程用户许可](LICENSE)
+
+适用于桌面应用程序：[开发中](#许可和知识产权)
+
+适用于 iOS App：[受许可应用程序最终用户许可协议 (EULA) - Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) `EN`
+
+计算机软件著作权登记(中国)
 
 ## 用户反馈
 
 感谢您使用假肢手指尖传感系统及指尖传感 App，我们非常期待可以得到您的反馈。您可以通过以下方式向我们反馈：
 
 - 您可以通过 [Email](#联系我们) 向我们反馈；
-- 或者在本页上方的 [Issues](https://github.com/Prosthetic-Fingertips-Sensing-System/Explorers-Center/issues) 链接，点击 `New issue` 按钮，填入您的反馈内容，最后选择 `Submit new issue` 即可；
-- *适用于在 TestFlight 中参与 iOS App 内部测试的用户*：启动 TestFlight App，选择 `指尖传感`，轻触 `发送 Beta 版反馈`，即可与我们取得联系。您可以同时上传您的 App 截图和崩溃信息。
+- 或者在本页上方的 [Issues](https://github.com/Prosthetic-Fingertips-Sensing-System/Explorers-Center/issues) 链接，点击「New issue」按钮，填入您的反馈内容，最后选择「Submit new issue」即可；
+- *适用于在 TestFlight 中参与 iOS App 内部测试的用户*：启动 TestFlight App，选择「指尖传感」，轻触「发送 Beta 版反馈」，即可与我们取得联系。您可以同时上传您的 App 截图和崩溃信息。
 
 ## 联系我们
 
