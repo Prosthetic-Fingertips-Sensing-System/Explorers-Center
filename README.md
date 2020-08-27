@@ -46,7 +46,7 @@ TinyConstraints | MIT | <https://github.com/roberthein/TinyConstraints>
 
 适用于 iOS App：[受许可应用程序最终用户许可协议 (EULA) - Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) `EN`
 
-计算机软件著作权登记(中国)
+计算机软件著作权登记(中国)：正在申请
 
 ## 用户反馈
 
