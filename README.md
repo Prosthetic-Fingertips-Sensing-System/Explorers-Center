@@ -2,7 +2,7 @@
 
 Prosthetic Fingertips Sensing System 假肢手指尖传感系统 - 探索与支持中心
 
-For English version, press [here](https://github.com/Prosthetic-Fingertips-Sensing-System/Explorers-Center).
+For English version, press [here]().
 
 欢迎使用 **假肢手指尖传感系统** 及 **指尖传感** App！
 
@@ -14,7 +14,13 @@ For English version, press [here](https://github.com/Prosthetic-Fingertips-Sensi
 
 ## 用户指南
 
-正在重定向
+请在下方链接查看完整的用户使用说明。
+
+- 假肢手指尖传感系统用户指南
+  + [网页](User%20Guide.md)
+  + [PDF]()
+
+- [指尖传感 App 用户指南]() * 开发中
 
 ## 第三方库和开源工程
 
