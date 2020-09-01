@@ -59,8 +59,6 @@ TinyConstraints | MIT | <https://github.com/roberthein/TinyConstraints>
 ### 计算机软件著作权登记
 
 - [上海交通大学. 假肢手指尖传感系统数据采集软件. V1.0. 中国: 2020SR0974628, 2020.](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2020SR0974628&keyWord=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6&publicityType=ALL&registerDateType=ALL)
-    
-- ... * 开发中
 
 ## 用户反馈
 
