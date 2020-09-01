@@ -50,11 +50,17 @@ TinyConstraints | MIT | <https://github.com/roberthein/TinyConstraints>
 
 适用于开源工程：[开源工程用户许可](LICENSE)
 
-适用于桌面应用程序：[开发中](#许可和知识产权)
+适用于桌面应用程序：[假肢手指尖传感系统 EULA](#许可和知识产权) * 开发中
 
 适用于 iOS App：[受许可应用程序最终用户许可协议 (EULA) - Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) `EN`
 
-计算机软件著作权登记(中国)：正在申请
+计算机软件著作权登记：
+
+- 上海交通大学. 假肢手指尖传感系统数据采集软件. V1.0. 中国: 2020SR0974628, 2020. 
+
+    [登记公告](https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2020SR0974628&keyWord=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6&publicityType=ALL&registerDateType=ALL)
+    
+- ... * 开发中
 
 ## 用户反馈
 
