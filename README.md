@@ -74,6 +74,7 @@ SwiftUIFormHelper | MIT | <https://github.com/jeroenzonneveld/SwiftUIFormHelper>
 - T Zhao
 - W Chen
 - J Liu
+- T Wang
 - D Zhan
 - J Xu
 - Y Yang
