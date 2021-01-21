@@ -67,6 +67,19 @@ SwiftUIFormHelper | MIT | <https://github.com/jeroenzonneveld/SwiftUIFormHelper>
 - 或者在本页上方的 [Issues](https://github.com/Prosthetic-Fingertips-Sensing-System/Explorers-Center/issues) 链接，点击「New issue」按钮，填入您的反馈内容，最后选择「Submit new issue」即可；
 - *适用于在 TestFlight 中参与 iOS App 内部测试的用户*：启动 TestFlight App，选择「指尖传感」，轻触「发送 Beta 版反馈」，即可与我们取得联系。您可以同时上传您的 App 截图和崩溃信息。
 
+## 致谢
+
+特别感谢参与本项目内部测试的用户：
+
+- T Zhao
+- W Chen
+- J Liu
+- D Zhan
+- J Xu
+- Y Yang
+
+感谢您陪同我们一同见证项目的成长！
+
 ## 联系我们
 
 目前，您可以通过以下方式和我们联系：
