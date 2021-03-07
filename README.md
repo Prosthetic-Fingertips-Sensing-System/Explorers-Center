@@ -10,6 +10,8 @@ For English version, press [here]() * 开发中.
 
 本站旨在为您提供系统的使用指南和技术说明，并为您提供反馈方式。
 
+<a href="https://apps.apple.com/cn/app/%E6%8C%87%E5%B0%96%E4%BC%A0%E6%84%9F/id1542675167?itscg=30200&amp;itsct=apps_box" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/99/f1/e3/99f1e309-81de-01e8-47c4-6521ddf437e7/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/540x540bb.jpg&h=66a8a846d4b3a25266c13b609547fe41" alt="指尖传感" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+
 ## 快速开始
 
 开发中
